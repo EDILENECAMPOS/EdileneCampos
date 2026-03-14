@@ -6,7 +6,7 @@ Tenho experiência com todo o **ciclo de dados**, desde **extração e tratament
 
 ---
 
-## 🧠 Áreas de atuação
+##  Áreas de atuação
 
 - **People Analytics e indicadores de RH**  
   (turnover, absenteísmo, evolução do quadro, perfil de colaboradores)
@@ -19,7 +19,7 @@ Tenho experiência com todo o **ciclo de dados**, desde **extração e tratament
 
 ---
 
-## ⚙️ Ferramentas e Tecnologias
+##  Ferramentas e Tecnologias
 
 - **Excel** para análise, modelagem e tratamento de dados  
 - **SQL** para consultas e manipulação de dados  
@@ -30,7 +30,7 @@ Tenho experiência com todo o **ciclo de dados**, desde **extração e tratament
 
 ---
 
-## 📊 O que você encontrará neste perfil
+##  O que você encontrará neste perfil
 
 Neste repositório compartilho projetos relacionados a:
 
