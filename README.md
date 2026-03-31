@@ -10,7 +10,6 @@ Atuação no desenvolvimento de dashboards interativos, relatórios gerenciais e
 
 ##  Ferramentas e Tecnologias
 
-Ferramentas:
 Excel | SQL | Power BI | Looker Studio | DBeaver | SQLite | Supabase (PostgreSQL)
 
 ---
@@ -27,6 +26,6 @@ Neste repositório compartilho projetos relacionados a:
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Aplicar **análise de dados para gerar valor estratégico para as organizações**, conectando **tecnologia, negócios e tomada de decisão baseada em dados**.
