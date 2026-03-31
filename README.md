@@ -18,11 +18,11 @@ Excel | SQL | Power BI | Looker Studio | DBeaver | SQLite | Supabase (PostgreSQL
 
 Neste repositório compartilho projetos relacionados a:
 
-- **Análise exploratória de dados (EDA)**
-- **Processos de ETL e tratamento de dados**
-- **Modelagem e estruturação de bancos de dados**
-- **Construção de pipelines de dados**
-- **Dashboards e projetos de análise de dados**
+- Processos de ETL 
+- Análise exploratória de dados (EDA)
+- Modelagem e estruturação de bancos de dados
+- Construção de pipelines de dados
+- Dashboards e projetos de análise de dados
 
 ---
 
