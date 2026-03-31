@@ -1,32 +1,16 @@
 # 👋 Olá! Bem-vindo ao meu perfil
 
-Profissional com experiência em **análise de dados aplicada às áreas de CRM e Recursos Humanos**, utilizando dados para apoiar **decisões estratégicas e melhoria de processos**. Atuo na transformação de **dados brutos em insights relevantes** por meio de **análise exploratória, modelagem e visualização de dados**.
+Profissional com experiência em Análise de Dados e People Analytics, atuando nos seguimentos de varejo, saúde, educação e construção civil, com foco em transformar dados em insights estratégicos para tomada de decisão.
 
-Tenho experiência com todo o **ciclo de dados**, desde **extração e tratamento (ETL)**, **análise exploratória de dados (EDA)** até a construção de **pipelines e dashboards analíticos** para suporte à tomada de decisão.
+Experiência nas etapas completas do processo analítico, incluindo tratamento dos dados (ETL), análise exploratória (EDA), aplicação das metodologias CRISP-DM e SAPE para estruturação de problemas, modelagem e geração de soluções orientadas a dados.
 
----
-
-##  Áreas de atuação
-
-- **People Analytics e indicadores de RH**  
-  (turnover, absenteísmo, evolução do quadro, perfil de colaboradores)
-
-- **Análise de dados em CRM**  
-  foco em comportamento de clientes e apoio a **estratégias de retenção**
-
-- **Estruturação e análise de bases de dados**  
-  para geração de **insights e indicadores de negócio**
-
+Atuação no desenvolvimento de dashboards interativos, relatórios gerenciais e KPIs focados em performance organizacional e gestão de pessoas, além de análises descritivas, diagnósticas e preditivas que apoiam as áreas de negócio.
 ---
 
 ##  Ferramentas e Tecnologias
 
-- **Excel** para análise, modelagem e tratamento de dados  
-- **SQL** para consultas e manipulação de dados  
-- **Power BI** para desenvolvimento de dashboards e visualização de indicadores  
-- **Bancos de dados relacionais** utilizando **PostgreSQL**  
-- **Gerenciamento e exploração de bancos de dados** com **DBeaver**  
-- **Estruturação de bancos de dados e projetos de dados** utilizando **Supabase**
+Ferramentas:
+Excel | SQL | Power BI | Looker Studio | DBeaver | SQLite | Supabase (PostgreSQL)
 
 ---
 
