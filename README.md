@@ -24,8 +24,3 @@ Neste repositório compartilho projetos relacionados a:
 - Construção de pipelines de dados
 - Dashboards e projetos de análise de dados
 
----
-
-## Objetivo
-
-Aplicar **análise de dados para gerar valor estratégico para as organizações**, conectando **tecnologia, negócios e tomada de decisão baseada em dados**.
