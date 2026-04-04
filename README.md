@@ -12,15 +12,4 @@ Atuação no desenvolvimento de dashboards interativos, relatórios gerenciais e
 
 Excel | SQL | Power BI | Looker Studio | DBeaver | SQLite | Supabase (PostgreSQL)
 
----
-
-##  O que você encontrará neste perfil
-
-Neste repositório compartilho projetos relacionados a:
-
-- Processos de ETL 
-- Análise exploratória de dados (EDA)
-- Modelagem e estruturação de bancos de dados
-- Construção de pipelines de dados
-- Dashboards e projetos de análise de dados
 
