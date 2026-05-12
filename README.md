@@ -1,10 +1,10 @@
 # 👋 Olá! Bem-vindo ao meu perfil
 
-Profissional com experiência em Análise de Dados e People Analytics, atuando nos seguimentos de varejo, saúde, educação e construção civil, com foco em transformar dados em insights estratégicos para tomada de decisão.
+Sou Analista de Dados com foco em People Analytics e indicadores de negócio, atuando na transformação de dados em insights estratégicos para tomada de decisão. 
 
-Experiência nas etapas completas do processo analítico, incluindo tratamento dos dados (ETL), análise exploratória (EDA), aplicação das metodologias CRISP-DM e SAPE para estruturação de hipóteses, modelagem e geração de soluções orientadas a dados.
+Tenho experiência no desenvolvimento de dashboards executivos em Power BI, automação de análises e estruturação de KPIs de RH, custos e performance organizacional.
 
-Atuação no desenvolvimento de dashboards interativos, relatórios gerenciais e KPIs focados em performance organizacional e gestão de pessoas, além de análises descritivas, diagnósticas e preditivas que apoiam as áreas de negócio.
+Possuo domínio em Power BI, DAX, Excel Avançado, Power Query e SQL, com atuação desde o ETL e validação dos dados até análises orientadas a planejamento financeiro, eficiência operacional e gestão de pessoas, gerando impacto real e redução significativa de tempo operacional.
 
 ---
 
