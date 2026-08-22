@@ -10,6 +10,6 @@ Possuo domínio em Power BI, DAX, Excel Avançado, Power Query e SQL, com atuaç
 
 ##  Ferramentas e Tecnologias
 
-Excel | SQL | Power BI | Looker Studio | DBeaver | SQLite | Supabase (PostgreSQL)
+Excel | SQL | Power BI | Looker Studio | DBeaver | SQLite | Supabase (PostgreSQL) | Python
 
 
