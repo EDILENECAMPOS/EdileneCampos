@@ -28,6 +28,11 @@ Acredito que dados bem estruturados, associados ao conhecimento do negócio, per
 # Tecnologias e ferramentas
 
 Excel & Power Query & IA
-Power BI (DAX, Power Query, Modelagem de Dados e Power BI Service).
-Python (Pandas, NumPy, OpenPyXL, Matplotlib e XlsxWriter).
-VSCode | SQL | PostgreSQL
+
+Power BI (DAX, Power Query, Modelagem de Dados e Power BI Service)
+
+Python (Pandas, NumPy, OpenPyXL, Matplotlib e XlsxWriter)
+
+SQL
+
+VSCode
