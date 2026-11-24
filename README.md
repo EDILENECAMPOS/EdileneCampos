@@ -1,17 +1,33 @@
 # 👋 Olá! Bem-vindo ao meu perfil
 
-Sou Analista de Dados com foco em People Analytics e indicadores de negócio, atuando na transformação de dados em insights estratégicos para tomada de decisão. 
+Analista de People Analytics | Data Analytics | Business Intelligence
 
-Tenho experiência no desenvolvimento de dashboards executivos em Power BI, automação de análises e estruturação de KPIs de RH, custos e performance organizacional.
+Sou profissional de Recursos Humanos com especialização em análise de dados, inteligência de negócios e tecnologia aplicada à gestão de pessoas.
 
-Possuo domínio em Power BI, DAX, Excel Avançado, Power Query e SQL, com atuação desde o ETL e validação dos dados até análises orientadas a planejamento financeiro, eficiência operacional e gestão de pessoas, gerando impacto real e redução significativa de tempo operacional.
+Minha trajetória combina experiência em RH, gestão de processos e análise de dados, com foco em transformar informações operacionais em indicadores estratégicos que apoiam a tomada de decisão.
 
----
+Atuo na estruturação de soluções de People Analytics, desenvolvimento de dashboards executivos, integração e tratamento de bases de dados, automação de relatórios e construção de indicadores de desempenho organizacional.
 
-##  Ferramentas e Tecnologias
+Acredito que dados bem estruturados, associados ao conhecimento do negócio, permitem identificar oportunidades, melhorar processos e gerar resultados mais consistentes para as organizações.
 
-Excel | Power BI | Power Query | SQL
-Python (Pandas, NumPy, OpenPyXL, Matplotlib, xlsxwriter, PyAutoGUI)
-VS Code e Inteligência Artificial aplicada a negócios
+🎯 Áreas de atuação
+
+People Analytics: indicadores de RH, Headcount, Turnover, Absenteísmo, Diversidade e Recrutamento e Seleção.
+
+Business Intelligence: desenvolvimento de dashboards gerenciais e executivos, modelagem de dados e indicadores de desempenho.
+
+RH Analytics: análise de custos de pessoal, orçamento, quadro de colaboradores e eficiência operacional.
+
+Data Analytics: extração, tratamento, integração, validação e análise de dados.
+
+Automação de processos: otimização de rotinas, relatórios e processos analíticos.
+
+Governança de dados: qualidade, padronização, confiabilidade e organização das informações, considerando requisitos de segurança e LGPD.
 
 
+🛠️ Tecnologias e ferramentas
+
+Excel & Power Query & IA
+Power BI (DAX, Power Query, Modelagem de Dados e Power BI Service).
+Python (Pandas, NumPy, OpenPyXL, Matplotlib e XlsxWriter).
+VSCode | SQL | PostgreSQL
