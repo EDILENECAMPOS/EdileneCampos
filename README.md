@@ -1,4 +1,4 @@
-# 👋 Olá! Bem-vindo ao meu perfil
+# Olá! Eu sou Edilene Campos
 
 # Analista de People Analytics | Data Analytics | Business Intelligence
 
