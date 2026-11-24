@@ -16,7 +16,9 @@ Acredito que dados bem estruturados, associados ao conhecimento do negócio, per
 **Business Intelligence:** desenvolvimento de dashboards gerenciais e executivos, modelagem de dados e indicadores de desempenho.
 **RH Analytics:** análise de custos de pessoal, orçamento, quadro de colaboradores e eficiência operacional.
 **Data Analytics:** extração, tratamento, integração, validação e análise de dados.
+
 **Automação de processos:** otimização de rotinas, relatórios e processos analíticos.
+
 **Governança de dados:** qualidade, padronização, confiabilidade e organização das informações, considerando requisitos de segurança e LGPD.
 
 
